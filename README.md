@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Darshan
 - 👀 Data and information keep the world running, so I try to keep them running.
-- 🌱 UG at REVA University, Bangalore mojring in CS
+- 🌱 Second year UG at REVA University, majoring in CS
 - 📫 Hey, you can reach out to me at contactdarshanv@gmail.com or check out my [LinkTree](https://linktr.ee/diplo2bytes)
 
 Hit me up if you want to team up for a tech event! My other passions include content curation, writing articles, and making new acquaintnaces. 
