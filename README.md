@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Darshan
-- 👀 Date and information keep the world running, so I try to keep them running.
+- 👀 Data and information keep the world running, so I try to keep them running.
 - 🌱 UG at REVA University, Bangalore mojring in CS
 - 📫 Hey, you can reach out to me at contactdarshanv@gmail.com or check out my [LinkTree](https://linktr.ee/diplo2bytes)
 
